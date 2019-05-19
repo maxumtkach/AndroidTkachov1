@@ -14,7 +14,7 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 
-    private EditText mInputMoney;
+    private EditText mInputMoney;  //иннициализация
     private EditText mInputInfo;
     private Button mBtnOk;
     private CheckBox mBankCardChkBx;
